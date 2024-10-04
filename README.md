@@ -2,10 +2,10 @@
 Welcome to my GitHub profile! I'm a passionate Business Analyst with a keen interest in transforming raw data into actionable insights. My expertise lies in SQL for data manipulation and Tableau for creating compelling, interactive visualizations. Through my projects, I aim to solve business problems, improve decision-making, and tell stories through data.
 
 🌟 About Me
-🎓 I hold certifications in SQL Fundamentals and Business Intelligence Analysis, among others.
-🚀 I’m actively building my skills in Data Analytics, particularly in SQL and Tableau, to help businesses leverage their data.
-🌎 Based in Hamilton, ON, I have a diverse background having grown up in Dubai and India.
-🔍 Currently exploring opportunities in Data Analytics, Business Analysis, and Product Strategy.
+I hold certifications in SQL Fundamentals and Business Intelligence Analysis, among others.
+I’m actively building my skills in Data Analytics, particularly in SQL and Tableau, to help businesses leverage their data.
+Based in Hamilton, ON, I have a diverse background having grown up in Dubai and India.
+Currently exploring opportunities in Data Analytics, Business Analysis, and Product Strategy.
 
 🛠️ Tools and Technologies
 SQL: Experience with complex queries, joins, aggregations, and window functions.
